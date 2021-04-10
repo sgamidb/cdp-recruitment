@@ -1,0 +1,22 @@
+{
+  "name": "cdp-recruitment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgamidb/cdp-recruitment.git"
+  },
+  "author": "Sébastien GATINEAU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgamidb/cdp-recruitment/issues"
+  },
+  "homepage": "https://github.com/sgamidb/cdp-recruitment#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
